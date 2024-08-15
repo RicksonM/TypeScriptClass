@@ -9,4 +9,6 @@ export class Negociacao{
         this.#valor = valor;
         this.#quantidade = quantidade;
     }
+
+    
 }
